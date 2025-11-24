@@ -21,7 +21,12 @@
 
 <h3 align="center">🐱 SNS 🐱</h3>
 <p align="center">
-  <a href="mailto:dtdt4959@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dtdt4959@gmail.com"/></a>
+  <a href="mailto:dtdt4959@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dtdt4959@gmail.com"/>
+  </a>
+  <a href="[내_티스토리_주소](https://soondooboo29.tistory.com/)">
+    <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white"/>
+</a>
 </p>
 <br/>
 
