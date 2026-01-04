@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
 </p>
 <br/>
 
