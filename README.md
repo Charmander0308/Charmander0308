@@ -21,16 +21,6 @@
 </p>
 <br/>
 
-<h3 align="center">🐱 SNS 🐱</h3>
-<p align="center">
-  <a href="mailto:dtdt4959002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dtdt4959002@gmail.com"/>
-  </a>
-  <a href="https://soondooboo29.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
-</p>
-<br/>
 
 <h3 align="center">🧑🏻‍💻 My Github Stats 🧑🏻‍💻</h3>
 <div align="center">
