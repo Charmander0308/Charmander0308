@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hi there! 👋</h3>
 <p align="center">I'm Yeseong Han — a backend developer and musician.</p>
 <p align="center">Jazz major. Now deep in code.</p>
-<p align="center">My goal is to master both,</p>
+<p align="center">My goal is to master both, </p>
 <p align="center">and own the space where they meet. 🙋🏻</p>
 <br/>
 
