@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20C997&height=210&section=header&text=Hi!%20I'm%20Yeseong!&fontSize=70"/>
 
 <h3 align="center">👋 Hi there! 👋</h3>
-<p align="center">안녕하세요 백엔드 개발자 한예성입니다 :)</p>
-<p align="center">매일매일 성장하는 개발자가 되겠습니다! 🙋🏻</p>
-<p align="center">Hello! I'm Yeseong Han, a passionate Junior Backend Developer :)</p>
-<p align="center">My goal is to become a better developer every single day! 🙋🏻</p>
+<p align="center">I'm Yeseong Han — a backend developer and musician.</p>
+<p align="center">Jazz major. Now deep in code.</p>
+<p align="center">My goal is to master both,</p>
+<p align="center">and own the space where they meet. 🙋🏻</p>
 <br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
