@@ -1,33 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20C997&height=210&section=header&text=Hi!%20I'm%20Yeseong!&fontSize=70"/>
+👋 Hi there! I'm **backend developer** using Java and Spring Boot. 🚀  
+Sometimes I work on databases and cloud infrastructure, but I prefer building APIs.
+ 
+I enjoy composing music, playing piano, swimming and freediving. 🎹 🌊 <br>
+I hope to develop every beautiful things. 🙋🏻
 
-<h3 align="center">👋 Hi there! 👋</h3>
-<p align="center">I'm Yeseong Han — a backend developer and musician.</p>
-<p align="center">Jazz major. Now deep in code.</p>
-<p align="center">My goal is to master both, </p>
-<p align="center">and own the space where they meet. 🙋🏻</p>
 <br/>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/AWS%20EC2%20%26%20S3-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-</p>
+### 💪 Skills
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools**
+
+![AWS EC2 & S3](https://img.shields.io/badge/AWS%20EC2%20%26%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
 <br/>
-
-
-<h3 align="center">🧑🏻‍💻 My Github Stats 🧑🏻‍💻</h3>
-<div align="center">
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Charmander0308&theme=github)
-
-</div>
