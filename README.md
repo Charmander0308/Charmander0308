@@ -1,4 +1,5 @@
-👋 Hi there! I'm **backend developer** using Java and Spring Boot. 🚀  
+👋 Hi there! I'm a **fullstack developer** using Java, Spring Boot, Vue and TypeScript. 🚀  
+Currently developing HCI software.  
 Sometimes I work on databases and cloud infrastructure, but I prefer building APIs.
  
 I enjoy composing music, playing piano, swimming and freediving. 🎹 🌊 <br>
@@ -12,6 +13,8 @@ I hope to develop every beautiful things. 🙋🏻
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 **Database**
 
