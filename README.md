@@ -1,6 +1,6 @@
 👋 Hi there! I'm a **fullstack developer** using Java, Spring Boot, Vue and TypeScript. 🚀  
 Currently developing HCI software.  
-Sometimes I work on databases and cloud infrastructure, but I prefer building APIs.
+Lately I've been deep into AI — exploring local LLMs, multi-agent systems, and workflow automation. 🤖
  
 I enjoy composing music, playing piano, swimming and freediving. 🎹 🌊 <br>
 I hope to develop every beautiful things. 🙋🏻
