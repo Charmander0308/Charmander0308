@@ -14,7 +14,8 @@ I hope to develop every beautiful things. 🙋🏻
 
 ### 🎓 Background
 
-- B.M. in Jazz Piano, double major in Culture Technology
+- Software Engineer — HCI software (present)
 - SSAFY (Samsung Software AI For Youth), 14th cohort
+- B.M. in Jazz Piano, double major in Culture Technology
 
 <br/>
