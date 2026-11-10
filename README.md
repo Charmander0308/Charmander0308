@@ -2,7 +2,7 @@
 Lately I've been deep into AI — my ultimate goal is to automate everything I do. 🤖
  
 I enjoy composing music, playing piano, swimming and freediving. 🎹 🌊 <br>
-I hope to develop every beautiful things. 🙋🏻
+I hope to develop every beautiful thing. 🙋🏻
 
 <br/>
 
