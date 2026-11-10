@@ -14,7 +14,7 @@ I hope to develop every beautiful things. 🙋🏻
 
 ### 🎓 Background
 
-- Software Engineer — HCI software (present)
+- Software Engineer working on infrastructure products (present)
 - SSAFY (Samsung Software AI For Youth), 14th cohort
 - B.M. in Jazz Piano, double major in Culture Technology
 
