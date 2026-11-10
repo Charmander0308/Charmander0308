@@ -12,4 +12,9 @@ I hope to develop every beautiful things. 🙋🏻
 - Building and testing management consoles for virtualization platforms
 - Automating development and documentation work with AI agents
 
+### 🎓 Background
+
+- B.M. in Jazz Piano, double major in Culture Technology
+- SSAFY (Samsung Software AI For Youth), 14th cohort
+
 <br/>
