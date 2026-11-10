@@ -9,7 +9,7 @@ I hope to develop every beautiful thing. 🙋🏻
 **💪 Skills**
 
 - Building and testing management consoles for virtualization platforms
-- Automating development and documentation work with AI agents
+- Automating development and documentation work with AI agents (mostly Claude Code)
 
 **🎓 Background**
 
