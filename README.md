@@ -6,12 +6,12 @@ I hope to develop every beautiful thing. 🙋🏻
 
 <br/>
 
-### 💪 Skills
+**💪 Skills**
 
 - Building and testing management consoles for virtualization platforms
 - Automating development and documentation work with AI agents
 
-### 🎓 Background
+**🎓 Background**
 
 - Software Engineer working on infrastructure products (present)
 - SSAFY (Samsung Software AI For Youth), 14th cohort
